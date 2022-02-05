@@ -51,29 +51,183 @@ There are no required textbooks for the course. There are some resources availab
 Topics
 ------
 
-| SES # | Topics |
-| --- | --- |
-| 1 | **Human Variation:** Challenges in human genomics, Variation, haplotypes, LD, Common and rare variant association |
-| 2 | **Trait Association:** Common and rare variant association, Mendelian vs. Complex, Basics of an association study, Phenotypes |
-| 3 | **Personal Genomics and Ethics:** Research studies: Consent, privacy, returning results, Medical applications: Testing, public health issues, obligations to relatives, privacy, Consumer options: Carrier testing, newborn testing, genetic testing, Gene editing: Beneﬁts, ethical issues, where to draw the line |
-| 4 | **Interpreting Coding (Rare) Variants:** Rare variant detection from exome sequencing in family studies, Aggregate analyses (e.g. ExAC), Classifying function (PolyPhen), Overlapping constraint |
-| 5 | **Interpreting Non-Coding (Common) Variants:** Enriched cell types, Causal variants: Epigenomics, Comparative Genomics, Target genes: HiC, genetic links, activity links, Upstream regulators: Regulatory motifs, TF binding |
-| 6 | **Bayesian Fine-Mapping and Multi-dimensional GWAS:** Fine-mapping (Posterior probabilities). Bayesian models for computational ﬁne-mapping, Multi-dimensional GWAS (Multi-Phenotype, Multi-ancestry, Multi-variant) |
-| 7 | **Intermediate Phenotypes and QTLs:** eQTLs, meQTLs, and other molecular traits, Allelic activity, Causality and mediation analysis, Mendelian randomization analysis |
-| 8 | **Heritability and Phenotype Prediction:** Missing heritability, heritability estimation, heritability partitioning, Polygenic risk scores, Predicting intermediate phenotypes |
-| 9 | **Human Ancestry and Population Genetics:** Coalescent theory. Recent Selection, Sweeps, Selection Pressures, Population Stratiﬁcation. Admixture Mapping, Ancestral genome sequencing and analysis |
-| 10 | **Cancer Genomics and Single-Cell Genomics:** Genetic alterations: Somatic mutations, mutational signatures, rearrangements, Epigenetic alterations: Methylation, miRNAs, reprogramming, origin, Convergence at the regulatory region, gene, pathway, cellular level. Guiding convergence with physical, genetic, and activity networks |
-| 11 | **Experimental Manipulations:** Genome editing and CRISPR, Experiment multiplexing, Screening and selection |
-| 12 | **Final presentations** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+**Human Variation:** Challenges in human genomics, Variation, haplotypes, LD, Common and rare variant association
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Trait Association:** Common and rare variant association, Mendelian vs. Complex, Basics of an association study, Phenotypes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**Personal Genomics and Ethics:** Research studies: Consent, privacy, returning results, Medical applications: Testing, public health issues, obligations to relatives, privacy, Consumer options: Carrier testing, newborn testing, genetic testing, Gene editing: Beneﬁts, ethical issues, where to draw the line
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+**Interpreting Coding (Rare) Variants:** Rare variant detection from exome sequencing in family studies, Aggregate analyses (e.g. ExAC), Classifying function (PolyPhen), Overlapping constraint
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**Interpreting Non-Coding (Common) Variants:** Enriched cell types, Causal variants: Epigenomics, Comparative Genomics, Target genes: HiC, genetic links, activity links, Upstream regulators: Regulatory motifs, TF binding
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**Bayesian Fine-Mapping and Multi-dimensional GWAS:** Fine-mapping (Posterior probabilities). Bayesian models for computational ﬁne-mapping, Multi-dimensional GWAS (Multi-Phenotype, Multi-ancestry, Multi-variant)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+**Intermediate Phenotypes and QTLs:** eQTLs, meQTLs, and other molecular traits, Allelic activity, Causality and mediation analysis, Mendelian randomization analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+**Heritability and Phenotype Prediction:** Missing heritability, heritability estimation, heritability partitioning, Polygenic risk scores, Predicting intermediate phenotypes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+**Human Ancestry and Population Genetics:** Coalescent theory. Recent Selection, Sweeps, Selection Pressures, Population Stratiﬁcation. Admixture Mapping, Ancestral genome sequencing and analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**Cancer Genomics and Single-Cell Genomics:** Genetic alterations: Somatic mutations, mutational signatures, rearrangements, Epigenetic alterations: Methylation, miRNAs, reprogramming, origin, Convergence at the regulatory region, gene, pathway, cellular level. Guiding convergence with physical, genetic, and activity networks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+**Experimental Manipulations:** Genome editing and CRISPR, Experiment multiplexing, Screening and selection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+**Final presentations**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
 Grades in this course will be based on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 20% |
-| Mini labs | 20% |
-| Presentation of assigned paper | 30% |
-| Term project | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mini labs
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation of assigned paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
